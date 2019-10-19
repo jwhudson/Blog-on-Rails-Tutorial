@@ -1,0 +1,2 @@
+module ArticlesrakeHelper
+end
